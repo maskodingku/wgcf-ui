@@ -1,3 +1,6 @@
 node_modules/
 core/
 www/
+app.js
+package.json
+package-lock.json
