@@ -17,7 +17,7 @@
 ## ▶️ How to Use
 
 1.  **Open the Application**:
-    Navigate to the application URL (or `http://localhost:3000` if running locally).
+    Navigate to the application URL (or `[https://wgcf-ui.blogspot.com/](https://wgcf-ui.blogspot.com/)`).
 
 2.  **Generate Config**:
     - Enter a **VPN Name** (e.g., "My Phone").
