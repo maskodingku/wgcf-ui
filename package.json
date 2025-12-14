@@ -1,0 +1,17 @@
+{
+  "name": "wgcf-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maskoding",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "is-cidr": "^6.0.1"
+  }
+}
