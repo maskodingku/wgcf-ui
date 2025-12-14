@@ -3,6 +3,7 @@
 **WGCONFIG Generator** is a modern, user-friendly web application that allows you to generate free **Target WireGuard configurations** powered by Cloudflare's WARP service.
 
 ![WGCONFIG Logo](logo.png)
+![preview](wgcf-ui.png)
 
 ## 🚀 Features
 
